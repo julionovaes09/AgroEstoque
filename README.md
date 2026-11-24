@@ -66,4 +66,4 @@ A aplicação abrirá automaticamente no navegador em `http://localhost:8501`.
 
 ---
 
-*Projeto desenvolvido para fins de avaliação acadêmica.*
+
